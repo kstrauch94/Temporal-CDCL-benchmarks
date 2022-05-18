@@ -1,3 +1,6 @@
 [submodule "parse-csv"]
 	path = parse-csv
 	url = https://github.com/kstrauch94/parse-csv
+[submodule "parsecsv"]
+	path = parsecsv
+	url = https://github.com/kstrauch94/parsecsv
