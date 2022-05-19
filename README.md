@@ -1,4 +1,9 @@
 # Usage
+First, load the submodule:
+```
+git submodule init
+```
+
 To view the plots you need to install several packages. Below are the commands to create a new conda environment and install the necesary packages:
 ```
 conda create -n plots 
